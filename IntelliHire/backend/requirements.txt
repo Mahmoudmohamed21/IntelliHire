@@ -1,0 +1,21 @@
+# Web API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+
+# Database (SQL Server via ODBC - see DATABASE_URL in .env)
+sqlalchemy
+pyodbc
+
+# PDF
+pypdf
+
+# AI / retrieval
+langchain-core
+langchain-ollama
+sentence-transformers
+faiss-cpu
+numpy
+huggingface_hub
